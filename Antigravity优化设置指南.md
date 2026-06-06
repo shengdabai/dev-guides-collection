@@ -202,7 +202,7 @@ MCP（Model Context Protocol）让 Antigravity 连接到各种云服务。
   "mcpServers": {
     "filesystem": {
       "command": "npx",
-      "args": ["-y", "@anthropic-ai/mcp-server-filesystem", "/Users/tonysheng/Desktop/编程"]
+      "args": ["-y", "@anthropic-ai/mcp-server-filesystem", "~/Desktop/项目"]
     }
   }
 }
