@@ -1,227 +1,97 @@
-# Dev Guides Collection - Comprehensive Development Resources
+# 🧭 Dev Guides Collection
 
-A curated collection of development guides, tutorials, and optimization settings for modern programming workflows. This collection covers AI-powered coding assistants, IDE optimizations, and specialized development methodologies.
+**English | [中文](#中文)**
 
-## 📁 Collection Overview
+![last commit](https://img.shields.io/github/last-commit/shengdabai/dev-guides-collection)
+![stars](https://img.shields.io/github/stars/shengdabai/dev-guides-collection?style=social)
+![follow](https://img.shields.io/github/followers/shengdabai?style=social)
 
-This repository contains four comprehensive guides:
+> Battle-tested, copy-paste-ready guides for getting the most out of AI coding assistants — and for using the same AI methodology to study for exams.
 
-### 1. 🚀 Cursor AI Assistant Guide
-**[Cursor使用指南.md](./Cursor使用指南.md)**
+Most "AI tool" guides stop at "install it and type a prompt." These don't. Each guide is a real, opinionated workflow written from daily use: the exact settings to flip, the prompts that actually work, and the tricks that save tokens and money. Written bilingually (中文/English) because the best ideas shouldn't be locked behind one language.
 
-Complete guide for getting started with Cursor AI programming assistant:
-- Configuration overview and optimized settings
-- Keyboard shortcuts quick reference
-- AI features and cost-saving techniques
-- Troubleshooting common issues
-- Best practices for AI-assisted coding
+## ✨ What's inside
 
-### 2. 🎯 Vibe Coding Complete Guide
-**[编程指南CC.md](./编程指南CC.md)**
+Four standalone guides — read whichever one you need, no setup required:
 
-Ultimate workflow guide for AI-powered pair programming:
-- Core principles: Planning-driven + Context-fixed + AI execution
-- Methodology for turning ideas into maintainable code
-- System prompt construction principles
-- Project architecture templates
-- Debugging and problem-solving strategies
-- Complete setup workflow
+- **🚀 [Cursor Usage Guide](./Cursor使用指南.md)** — Get productive in Cursor fast: optimized configuration, a keyboard-shortcut cheat sheet, AI feature walkthrough, cost-saving techniques, and fixes for the common gotchas.
+- **🎯 [Vibe Coding Complete Guide](./编程指南CC.md)** — A full workflow for AI pair-programming with Claude Code: planning-driven + context-fixed + AI-executed. Covers system-prompt construction, project architecture templates, and debugging strategies so you stop fighting the same bug twice.
+- **🛰️ [Antigravity Optimization Guide](./Antigravity优化设置指南.md)** — Tune Google's Antigravity IDE: Cloud mode setup, key settings, development-mode selection, `GEMINI.md` + Agent Rules configuration, MCP cloud services, and how to make your monthly quota last.
+- **🎓 [Gaokao AI Review Guide](./高考复习指南CC.md)** — The same AI methodology, pointed at studying. An AI-assisted prep system for China's 2025 新高考 (3+1+2), with subject-by-subject strategy for math, Chinese, English, physics, chemistry, and politics, plus a progress-tracking system and a prompt template library.
 
-### 3. 🚀 Antigravity Optimization Guide
-**[Antigravity优化设置指南.md](./Antigravity优化设置指南.md)**
+There's also a small `n8n_workflows_数据集.xlsx` sample dataset used in some of the workflow examples.
 
-Optimization guide for Google Antigravity IDE:
-- Cloud mode configuration and verification
-- Key settings optimization
-- Development mode selection
-- GEMINI.md configuration
-- Agent rules configuration
-- MCP cloud service setup
-- Usage saving techniques
-- Advanced feature activation
+## 🚀 How to use
 
-### 4. 🎓 Gaokao AI Review Guide
-**[高考复习指南CC.md](./高考复习指南CC.md)**
+1. **Pick a guide** above based on what you're doing today.
+2. **Read it top to bottom once** — they're short and structured around a real workflow, not a feature dump.
+3. **Copy the settings and prompts** straight into your tool; they're written to be pasted, not paraphrased.
+4. **Steal the methodology.** The "plan first, fix context, let AI execute" idea works far beyond any single tool.
 
-Complete guide for AI-assisted Gaokao (Chinese College Entrance Exam) preparation:
-- Qinghai Province 2025 Gaokao policy overview
-- AI-powered learning methodology
-- Subject-specific strategies for Math, Chinese, English, Physics, Chemistry, Politics
-- Study progress tracking system
-- Efficient review methodologies
-- Prompt template library
+## 💬 Connect / About
 
-## 🎯 Target Audience
+I'm **Tony (Sheng)** — a Chinese-language teacher (6000+ students) building AI + Chinese-teaching tools in public. I share what actually works as I figure it out, in both Chinese and English.
 
-- **Developers**: AI-assisted programming practitioners
-- **Students**: High school students preparing for college entrance exams
-- **Educators**: Teachers integrating AI into teaching workflows
-- **Tech enthusiasts**: Users of modern AI development tools
+If any of these guides saved you time, a ⭐ **Star** and a **Follow [@shengdabai](https://github.com/shengdabai)** genuinely help and let me know what to write next.
 
-## 🛠️ Topics Covered
+More of my work you might like:
 
-### AI Tools & Workflows
-- Cursor AI Assistant configuration
-- Vibe Coding methodology
-- Antigravity IDE optimization
-- Prompt engineering best practices
-- AI-assisted debugging techniques
+- 🤖 [everything-claude-code](https://github.com/shengdabai/everything-claude-code) — everything I've learned running Claude Code daily.
+- ⚙️ [claude-code-config](https://github.com/shengdabai/claude-code-config) — my real Claude Code configuration, settings, and hooks.
+- 🧩 [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) — a growing library of Claude Code skills.
 
-### Development Methodologies
-- Socratic teaching methods
-- Planning-driven development
-- Context-fixed AI execution
-- Efficient code review processes
-- Project architecture patterns
-
-### Exam Preparation
-- Gaokao policy analysis
-- Subject-specific strategies
-- Progress tracking systems
-- AI-powered learning techniques
-- Knowledge point management
-
-## 📚 How to Use This Collection
-
-1. **Choose Your Guide**: Select the guide that matches your needs
-2. **Follow the Setup**: Each guide includes step-by-step setup instructions
-3. **Apply Best Practices**: Implement the recommended configurations and workflows
-4. **Optimize Your Workflow**: Use the tips and tricks to improve efficiency
-5. **Join the Community**: Contribute your own experiences and improvements
-
-## 🔄 Updates & Maintenance
-
-This collection is regularly updated with:
-- Latest AI tool features and updates
-- New optimization techniques
-- Community-contributed tips
-- Emerging best practices
-
-## 🤝 Contributing
-
-We welcome contributions! To add new guides or improve existing ones:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/new-guide`)
-3. Add your guide in markdown format
-4. Update this README with your addition
-5. Submit a pull request
+PRs and issues welcome — if a guide is missing a trick you rely on, open one.
 
 ## 📄 License
 
-All guides in this collection are licensed under the MIT License.
+MIT.
 
 ---
 
-# 开发指南合集 - 综合开发资源
+# 中文
 
-精心策划的开发指南、教程和优化设置合集，涵盖现代编程工作流程。本集合包含AI编程助手、IDE优化和专业开发方法论。
+**[English](#-dev-guides-collection) | 中文**
 
-## 📁 合集概览
+![last commit](https://img.shields.io/github/last-commit/shengdabai/dev-guides-collection)
+![stars](https://img.shields.io/github/stars/shengdabai/dev-guides-collection?style=social)
+![follow](https://img.shields.io/github/followers/shengdabai?style=social)
 
-本仓库包含四个综合指南：
+> 经过实战检验、可直接抄走的 AI 编程助手实用指南 —— 顺便用同一套 AI 方法论来备考。
 
-### 1. 🚀 Cursor AI助手使用指南
-**[Cursor使用指南.md](./Cursor使用指南.md)**
+大多数「AI 工具教程」止步于「装好、随便打个 prompt」。这里不是。每份指南都是从日常使用中提炼的、有观点的真实工作流：该改哪些设置、哪些 prompt 真的好用、哪些技巧能省 token 省钱。中英双语撰写 —— 好东西不该被一种语言锁住。
 
-Cursor AI编程助手完整入门指南：
-- 配置概述和优化设置
-- 快捷键速查表
-- AI功能和使用技巧
-- 常见问题故障排除
-- AI辅助编码最佳实践
+## ✨ 内容一览
 
-### 2. 🎯 Vibe编码完全指南
-**[编程指南CC.md](./编程指南CC.md)**
+四份独立指南 —— 需要哪份看哪份，无需任何安装：
 
-AI结对编程的终极工作流程指南：
-- 核心理念：规划驱动+上下文固定+AI执行
-- 将想法转化为可维护代码的方法论
-- 系统提示词构建原则
-- 项目架构模板
-- 调试和问题解决策略
-- 完整设置流程
+- **🚀 [Cursor 使用指南](./Cursor使用指南.md)** —— 快速上手 Cursor：优化配置、快捷键速查、AI 功能讲解、省钱技巧，以及常见坑的排查。
+- **🎯 [Vibe Coding 完全指南](./编程指南CC.md)** —— 与 Claude Code 结对编程的完整工作流：规划驱动 + 上下文固定 + AI 执行。涵盖系统提示词构建、项目架构模板和调试策略，让你不再为同一个 bug 反复折腾。
+- **🛰️ [Antigravity 优化设置指南](./Antigravity优化设置指南.md)** —— 调教 Google Antigravity IDE：Cloud 模式配置、关键设置、开发模式选择、`GEMINI.md` 与 Agent Rules 配置、MCP 云服务，以及如何让月度用量更耐用。
+- **🎓 [高考 AI 复习指南](./高考复习指南CC.md)** —— 把同一套 AI 方法论用在学习上。面向青海省 2025 新高考（3+1+2）的 AI 辅助备考系统，覆盖数学、语文、英语、物理、化学、政治六科的逐科策略，附学习进度跟踪系统和提示词模板库。
 
-### 3. 🚀 Antigravity优化设置指南
-**[Antigravity优化设置指南.md](./Antigravity优化设置指南.md)**
+仓库里还有一个小的 `n8n_workflows_数据集.xlsx` 示例数据集，用于部分工作流示例。
 
-Google Antigravity IDE优化指南：
-- Cloud模式配置和验证
-- 关键设置优化
-- 开发模式选择
-- GEMINI.md配置
-- Agent规则配置
-- MCP云服务设置
-- 使用节省技巧
-- 高级功能激活
+## 🚀 如何使用
 
-### 4. 🎓 高考AI复习指南
-**[高考复习指南CC.md](./高考复习指南CC.md)**
+1. 根据今天要做的事，从上面**挑一份指南**。
+2. **先完整读一遍** —— 篇幅都不长，围绕真实工作流组织，而不是功能罗列。
+3. 把设置和 prompt **直接抄进**你的工具，它们就是为「粘贴」而写的，不必再转述。
+4. **把方法论也带走。**「先规划、固定上下文、让 AI 执行」这个思路远不止适用于某一个工具。
 
-AI辅助高考（中国大学入学考试）完全指南：
-- 青海省2025高考政策概览
-- AI驱动的学习方法论
-- 数学、语文、英语、物理、化学、政治各科策略
-- 学习进度跟踪系统
-- 高效复习方法论
-- 提示词模板库
+## 💬 关于作者 / 联系
 
-## 🎯 目标受众
+我是 **Tony（盛）** —— 一名中文老师（6000+ 学员），在公开构建 AI + 中文教学工具。我会把真正有用的经验边摸索边分享，中英双语都有。
 
-- **开发者**：AI辅助编程实践者
-- **学生**：准备高考的高中生
-- **教育工作者**：将AI集成到教学中的教师
-- **技术爱好者**：现代AI开发工具用户
+如果这些指南帮你省了时间，点个 ⭐ **Star**、**关注 [@shengdabai](https://github.com/shengdabai)** 都是实打实的鼓励，也让我知道接下来该写什么。
 
-## 🛠️ 涵盖主题
+你可能也会喜欢我的其他项目：
 
-### AI工具和工作流
-- Cursor AI助手配置
-- Vibe编码方法论
-- Antigravity IDE优化
-- 提示词工程最佳实践
-- AI辅助调试技术
+- 🤖 [everything-claude-code](https://github.com/shengdabai/everything-claude-code) —— 我每天用 Claude Code 积累下来的一切。
+- ⚙️ [claude-code-config](https://github.com/shengdabai/claude-code-config) —— 我真实在用的 Claude Code 配置、设置与 hooks。
+- 🧩 [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) —— 持续扩充的 Claude Code skills 库。
 
-### 开发方法论
-- 苏格拉底式教学法
-- 规划驱动开发
-- 上下文固定的AI执行
-- 高效代码审查流程
-- 项目架构模式
-
-### 考试准备
-- 高考政策分析
-- 学科特定策略
-- 进度跟踪系统
-- AI驱动学习技术
-- 知识点管理
-
-## 📚 如何使用本合集
-
-1. **选择你的指南**：选择符合你需求的指南
-2. **跟随设置**：每个指南都包含分步设置说明
-3. **应用最佳实践**：实施推荐的配置和工作流
-4. **优化工作流**：使用技巧提高效率
-5. **加入社区**：贡献你的经验和改进建议
-
-## 🔄 更新和维护
-
-本合集定期更新：
-- 最新的AI工具功能和更新
-- 新的优化技术
-- 社区贡献的技巧
-- 新兴的最佳实践
-
-## 🤝 贡献
-
-我们欢迎贡献！要添加新指南或改进现有指南：
-
-1. Fork仓库
-2. 创建你的功能分支（`git checkout -b feature/new-guide`）
-3. 以markdown格式添加你的指南
-4. 更新此README添加你的内容
-5. 提交pull request
+欢迎提 PR 和 issue —— 如果某份指南漏了你常用的技巧，开一个吧。
 
 ## 📄 许可证
 
-本合集中的所有指南都采用MIT许可证。
+MIT。
