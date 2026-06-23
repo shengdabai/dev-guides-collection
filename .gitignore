@@ -3,6 +3,7 @@ dist/
 .DS_Store
 *.log
 .env
+.env*
 .env.local
 .env.production
 .omc/
@@ -10,7 +11,6 @@ __pycache__/
 .venv/
 target/
 # Codex governance: local secrets and machine state
-.env
 .env.*
 !.env.example
 !.env.*.example
@@ -20,7 +20,12 @@ target/
 id_rsa
 id_dsa
 .npmrc
-.DS_Store
-.omc/
 .codex/
 .claude/local/
+# Build / generated artifacts
+package.json
+package-lock.json
+*-todo.md
+.pipeline-state.json
+*.feishu.pdf
+*.feishu-long.jpg
